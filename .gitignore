@@ -2,7 +2,6 @@
 node_modules/
 
 # Ignore environment variables
-.env
 
 # Ignore any build or production files
 /build
